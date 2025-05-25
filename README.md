@@ -87,10 +87,11 @@ Group Members:
 
 This video will show how the robot follows te line using ros nodes
 
+
 ![Example GIF](.github/assets/ros_video.gif)
 
 ##ros output
-![Example GIF](.github/assets/ros_video.gif)
+
 
 
 
