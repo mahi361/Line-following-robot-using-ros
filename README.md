@@ -82,8 +82,8 @@ Group Members:
 
 
 
-## Results
-# Line following robot using ros
+# Results
+### Line following robot using ros
 
 This video will show how the robot follows te line using ros nodes
 
