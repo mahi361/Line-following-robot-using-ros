@@ -66,7 +66,7 @@ Group Members:
 <div align="center">
 <table>
   <tr>
-    <td width="50%"> <img src = "https://github.com/mahi361/petcare_robot/blob/main/Sinric_app/app.png" width="100%"><br>(a) </td>
+    <td width="50%"> <img src = "" width="100%"><br>(a) </td>
   <br>(b) </td>
     
   </tr>
