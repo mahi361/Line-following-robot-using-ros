@@ -17,11 +17,7 @@ Group Members:
 
 
 
-<h2>Line following robot </h2>
 
-<div align="center">
-<img src = "https://github.com/mahi361/petcare_robot/blob/main/Design_files/design_01.png" width="100%">
-</div>
 
 
 <h2>Components</h2>
@@ -29,18 +25,18 @@ Group Members:
 <div align="center">
 <table>
   <tr >
-    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/esp32-cam.jpeg" width="100%"><br>(a) </td>
-    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/esp32.jpeg" width="100%"><br>(b) </td>
-    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/servo_motor.jpeg" width="100%"><br>(c) </td>
+    <td width=25%> <img src = "" width="100%"><br>(a) </td>
+    <td width=25%> <img src = "" width="100%"><br>(b) </td>
+    <td width=25%> <img src = "" width="100%"><br>(c) </td>
   </tr>
   <tr>  
-    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/li-ion.jpeg" width="1005"><br>(e) </td>
-    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/l298n.jpeg" width="100%"><br>(f) </td>
-    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/Screenshot%202025-05-25%20170041.png" width="100%"><br>(g) 
+    <td width=25%> <img src = "" width="1005"><br>(e) </td>
+    <td width=25%> <img src = "" width="100%"><br>(f) </td>
+    <td width=25%> <img src = "" width="100%"><br>(g) 
     <tr>  
-    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/li-ion.jpeg" width="1005"><br>(e) </td>
-    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/l298n.jpeg" width="100%"><br>(f) </td>
-    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/Screenshot%202025-05-25%20170041.png" width="100%"><br>(g) 
+    <td width=25%> <img src = "" width="1005"><br>(e) </td>
+    <td width=25%> <img src = "" width="100%"><br>(f) </td>
+    <td width=25%> <img src = "" width="100%"><br>(g) 
    
    
   
@@ -56,12 +52,10 @@ Group Members:
 <div align="center">
 <table>
   <tr>
-    <td width="100%"> <img src = "https://github.com/mahi361/petcare_robot/blob/main/Web_page_interface/web_page.png" width="100%"> </td>
+    <td width="100%"> <img src = "" width="100%"> </td>
    
   </tr>
 </table>
-<p>Web Circuit diagram.</p>
-</div>
 <br>
 
 
@@ -89,17 +83,17 @@ Group Members:
 
 
 ## Results
-# Pet Care robot
-Pan_camera
+# Line following robot using ros
 
-This video will show the demonstrataion of pan_tilt_camera_in_mobile
+This video will show how the robot follows te line using ros nodes
 
-![Example GIF](.github/assets/pan_videoo.gif)
+![Example GIF](.github/assets/ros_video.gif)
 
-## output video
+##ros output
+![Example GIF](.github/assets/ros_video.gif)
 
-This video will demonstarte how the robot moves and how the water and food will dispense in their respected boxes
-![Examples GIF](.github/assets/output_video_01.gif)
+
+
 
 
 
