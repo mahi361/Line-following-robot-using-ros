@@ -42,12 +42,7 @@ Group Members:
     <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/l298n.jpeg" width="100%"><br>(f) </td>
     <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/Screenshot%202025-05-25%20170041.png" width="100%"><br>(g) 
    
-    <tr>  
-    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/pump%20motor.jpeg" width="100%"><br>(j) </td>
-    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/wheels.jpeg" width="100%"><br>(j) </td>
-    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/acrylic.jpeg" width="100%"><br>(k) </td>
-    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/pvc.jpeg" width="100%"><br>(l) </td>
-  </tr>  
+   
   
   </tr>
 </table>
