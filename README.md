@@ -34,7 +34,7 @@ Group Members:
     <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/li-ion.jpg" width="100%"><br>(f) </td>
     <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/ir%20arrays.jpg" width="100%"><br>(g) 
     <tr>  
-    <td width=25%> <img src = "" width="1005"><br>(e) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/acrylic.jpeg" width="1005"><br>(e) </td>
     <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/uno_cable.jpeg" width="100%"><br>(f) </td>
     <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/jumper.jpeg" width="100%"><br>(g) 
    
