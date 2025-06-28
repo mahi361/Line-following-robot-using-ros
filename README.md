@@ -42,7 +42,7 @@ Group Members:
   
   </tr>
 </table>
-<p>(a)	Arduino uno (1), (b) 	wheels (1), (c)  dc Hobby motor, (d)vL298N Motor driver (1), (e) Lithium ion cells (8x), (f) IR sensror array(1), (g) acrylic sheets(2x), (h) cable, (i) jumper wires(10), (</p>
+<p>(a)	Arduino uno (1), (b) 	wheels (1), (c)  dc Hobby motor, (d)L298N Motor driver (1), (e) Lithium ion cells (8x), (f) IR sensror array(1), (g) acrylic sheets(2x), (h) cable, (i) jumper wires(10), (</p>
 </div>
 
 <h2>Overall Framework</h2>
@@ -52,7 +52,7 @@ Group Members:
 <div align="center">
 <table>
   <tr>
-    <td width="100%"> <img src = "" width="100%"> </td>
+    <td width="100%"> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/circuit%20diagram/CIRCUIT%20DIAGRAM.jpg" width="100%"> </td>
    
   </tr>
 </table>
