@@ -26,17 +26,17 @@ Group Members:
 <table>
   <tr >
     <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/ARDUIno.png" width="100%"><br>(a) </td>
-    <td width=25%> <img src = "" width="100%"><br>(b) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/wheels.jpeg" width="100%"><br>(b) </td>
     <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/dc%20motor.jpg" width="100%"><br>(c) </td>
   </tr>
   <tr>  
     <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/motor%20driver.jpg" width="1005"><br>(e) </td>
-    <td width=25%> <img src = "" width="100%"><br>(f) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/li-ion.jpg" width="100%"><br>(f) </td>
     <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/ir%20arrays.jpg" width="100%"><br>(g) 
     <tr>  
     <td width=25%> <img src = "" width="1005"><br>(e) </td>
-    <td width=25%> <img src = "" width="100%"><br>(f) </td>
-    <td width=25%> <img src = "" width="100%"><br>(g) 
+    <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/uno_cable.jpeg" width="100%"><br>(f) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/jumper.jpeg" width="100%"><br>(g) 
    
    
   
@@ -66,7 +66,7 @@ Group Members:
 <div align="center">
 <table>
   <tr>
-    <td width="50%"> <img src = "" width="100%"><br>(a) </td>
+    <td width="50%"> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/hardware.png" width="100%"><br>(a) </td>
   <br>(b) </td>
     
   </tr>
@@ -103,7 +103,7 @@ This video will show how the robot follows te line using ros nodes
   
 
 ## Quick Links:
-[![report](https://img.shields.io/badge/Final-Report-brightgreen)](https://github.com/mahi361/petcare_robot/blob/main/.github/assets/DP2_PET%20CARE.pdf)
+[![report](https://img.shields.io/badge/Final-Report-brightgreen)](https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/MAHIDHAR_ROS_final.pdf)
 
 
 
