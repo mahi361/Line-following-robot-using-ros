@@ -25,14 +25,14 @@ Group Members:
 <div align="center">
 <table>
   <tr >
-    <td width=25%> <img src = "" width="100%"><br>(a) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/ARDUIno.png" width="100%"><br>(a) </td>
     <td width=25%> <img src = "" width="100%"><br>(b) </td>
-    <td width=25%> <img src = "" width="100%"><br>(c) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/dc%20motor.jpg" width="100%"><br>(c) </td>
   </tr>
   <tr>  
-    <td width=25%> <img src = "" width="1005"><br>(e) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/motor%20driver.jpg" width="1005"><br>(e) </td>
     <td width=25%> <img src = "" width="100%"><br>(f) </td>
-    <td width=25%> <img src = "" width="100%"><br>(g) 
+    <td width=25%> <img src = "https://github.com/mahi361/Line-following-robot-using-ros/blob/main/components/ir%20arrays.jpg" width="100%"><br>(g) 
     <tr>  
     <td width=25%> <img src = "" width="1005"><br>(e) </td>
     <td width=25%> <img src = "" width="100%"><br>(f) </td>
